@@ -1,0 +1,24 @@
+32631 [http-nio-8080-exec-2] INFO  c.e.demo.Controller.HotelController - logger info
+32631 [http-nio-8080-exec-2] DEBUG c.e.demo.Controller.HotelController - logger debug
+32631 [http-nio-8080-exec-2] ERROR c.e.demo.Controller.HotelController - error message
+32631 [http-nio-8080-exec-2] DEBUG c.e.demo.Controller.HotelController - How are you today?
+32635 [http-nio-8080-exec-2] INFO  c.e.demo.Controller.HotelController - I am fine.
+32635 [http-nio-8080-exec-2] WARN  c.e.demo.Controller.HotelController - I love programming.
+32635 [http-nio-8080-exec-2] ERROR c.e.demo.Controller.HotelController - I am programming.
+10607 [http-nio-8080-exec-2] INFO  c.e.demo.Controller.HotelController - logger info
+10607 [http-nio-8080-exec-2] ERROR c.e.demo.Controller.HotelController - error message
+10607 [http-nio-8080-exec-2] INFO  c.e.demo.Controller.HotelController - I am fine.
+10607 [http-nio-8080-exec-2] WARN  c.e.demo.Controller.HotelController - I love programming.
+10607 [http-nio-8080-exec-2] ERROR c.e.demo.Controller.HotelController - I am programming.
+20847 [http-nio-8080-exec-1] INFO  c.e.demo.Controller.HotelController - logger info
+21536 [http-nio-8080-exec-1] ERROR c.e.demo.Controller.HotelController - error message
+23292 [http-nio-8080-exec-1] INFO  c.e.demo.Controller.HotelController - I am fine.
+23292 [http-nio-8080-exec-1] WARN  c.e.demo.Controller.HotelController - I love programming.
+23292 [http-nio-8080-exec-1] ERROR c.e.demo.Controller.HotelController - I am programming.
+12947 [http-nio-8080-exec-2] INFO  c.e.demo.Controller.HotelController - logger info
+12947 [http-nio-8080-exec-2] DEBUG c.e.demo.Controller.HotelController - logger debug
+12947 [http-nio-8080-exec-2] ERROR c.e.demo.Controller.HotelController - error message
+12947 [http-nio-8080-exec-2] DEBUG c.e.demo.Controller.HotelController - How are you today?
+12947 [http-nio-8080-exec-2] INFO  c.e.demo.Controller.HotelController - I am fine.
+12947 [http-nio-8080-exec-2] WARN  c.e.demo.Controller.HotelController - I love programming.
+12947 [http-nio-8080-exec-2] ERROR c.e.demo.Controller.HotelController - I am programming.

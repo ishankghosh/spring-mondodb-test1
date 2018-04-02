@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+  <Properties>
+    <Property name="filename">customization.log</Property>
+  </Properties>
+  
+  <Appenders>
+    <File name="file" fileName="${filename}">
+      <PatternLayout>
+        <pattern>%d %p %t %c - %m%n</pattern>
+      </PatternLayout>
+    </File>
+	<Console name="STDOUT" target="SYSTEM_OUT">
+      <PatternLayout pattern="%m%n"/>
+    </Console>
+  </Appenders>
+  
+  <Loggers>
+	 <Root level="trace">
+      <AppenderRef ref="file" level="ERROR"/>
+      <AppenderRef ref="STDOUT" level="INFO"/>
+    </Root>
+  </Loggers>
+</Configuration>
